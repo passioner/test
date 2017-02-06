@@ -76,6 +76,7 @@ int main()
 	unsigned hr = 9;
 	unsigned temp = hr & mask;
 	cout << temp << endl;
+	cout << "--end--" << endl;
 
 
 
