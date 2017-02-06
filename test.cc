@@ -77,6 +77,7 @@ int main()
 	unsigned temp = hr & mask;
 	cout << temp << endl;
 	cout << "--end--" << endl;
+	cout << "--real-end--" << endl;
 
 
 
