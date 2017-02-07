@@ -78,6 +78,7 @@ int main()
 	cout << temp << endl;
 	cout << "--end--" << endl;
 	cout << "--real-end--" << endl;
+	cout << "--add-for-HEAD" << endl;
 
 
 
